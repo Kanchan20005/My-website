@@ -1,1 +1,43 @@
+body
+{
+    margin: 0%;
+    padding: 0%; 
+    padding-left: 15%;
+    padding-right: 15%;  
+    background-color: #f7f7f7;
 
+}
+.Picture{
+    /* background-color: aqua; */
+    /* height: 600px; */
+    background-image:url("../img/MY.jpg");
+    background-position: top; /* Center the image */
+    background-size: cover;
+    height: 500px;
+    background-repeat: inherit;
+    display: grid;
+    margin: 0%;
+    border: 0%;
+    
+}
+.Picture h2{
+    text-align: center;
+    /* text-align: center; */
+     /* Padding-top: 225px; */
+     /* padding-bottom: 0.01em; */
+
+     
+} 
+.Picture p
+{
+    text-align: center;
+    /* padding-top: 0.01em; */
+    /* padding-bottom: 225px; */
+    /* text-align: center; */
+    /* margin-top: 300px; */
+}
+
+.Projects{
+
+    background-color: #fdfff5; 
+}
